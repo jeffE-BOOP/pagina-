@@ -1,0 +1,36 @@
+
+    LICENÇA DE USO PROPRIETÁRIA
+
+    COPYRIGHT (C) [2025] [jefferson pereira. TODOS OS DIREITOS RESERVADOS.
+
+    Ao utilizar este código HTML, você concorda com os seguintes termos e condições:
+
+    1. CONCESSÃO DE LICENÇA:
+       Este código HTML é fornecido ao usuário para uso pessoal e/ou comercial, conforme determinado pelo autor. A licença é não exclusiva, não transferível e limitada ao uso do código conforme os termos desta licença.
+
+    2. RESTRIÇÕES:
+       O usuário não poderá:
+       - Modificar, copiar, distribuir ou criar trabalhos derivados do código sem a autorização expressa de [jefferson pereira
+       - Vender, sublicenciar ou transferir a titularidade do código a terceiros.
+       - Usar o código para fins ilegais ou não autorizados.
+
+    3. PROPRIEDADE INTELECTUAL:
+       O código HTML é de propriedade exclusiva de [Seu Nome/Empresa] e está protegido por leis de direitos autorais e propriedade intelectual. Todos os direitos não concedidos ao usuário estão reservados.
+
+    4. ISENÇÃO DE GARANTIAS:
+       O código HTML é fornecido no estado em que se encontra, sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a, garantias de comercialização ou adequação para um fim específico.
+
+    5. RESPONSABILIDADE:
+       [Seu Nome/Empresa] não se responsabiliza por quaisquer danos diretos, indiretos ou consequenciais que possam ocorrer devido ao uso do código HTML, mesmo que tenha sido informado sobre a possibilidade desses danos.
+
+    6. VIGÊNCIA E RESCISÃO:
+       Esta licença é válida enquanto o código for utilizado. Caso o usuário viole qualquer termo desta licença, a licença será rescindida imediatamente.
+
+    7. LEI APLICÁVEL:
+       Esta licença será regida e interpretada de acordo com as leis 
+
+    Copyright © [2025] [jefferson pereira]. Todos os direitos reservados.
+-->
+
+
+
